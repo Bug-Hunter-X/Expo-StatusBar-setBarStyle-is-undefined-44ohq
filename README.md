@@ -1,0 +1,1 @@
+This repo contains a bug report and solution for an issue related to the Expo StatusBar API.  The bug manifests as an undefined error when attempting to use StatusBar.setBarStyle().  The solution demonstrates a corrected approach using the appropriate import and methods.
